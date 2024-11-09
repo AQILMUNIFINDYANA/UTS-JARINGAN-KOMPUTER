@@ -2,7 +2,7 @@
 # NIM : 20220801525
 # UTS JARINGAN KOMPUTER
 
-# 1.	Jelaskan Menurut anda ap aitu jaringan computer
+# 1.	Jelaskan Menurut anda apa itu jaringan computer
  ## Jaringan komputer adalah kumpulan dua atau lebih perangkat komputer yang saling terhubung untuk berbagi data dan sumber daya, seperti file, printer, atau koneksi internet. Jaringan ini memungkinkan komunikasi antar perangkat dalam area yang sama (seperti jaringan lokal atau LAN) maupun jarak jauh (seperti jaringan luas atau WAN).
 
 # 2.	Sebutkan Komponen OSI Layer dan Jelaskan apa itu OSI Layer
